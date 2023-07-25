@@ -2,3 +2,6 @@ __pycache__/
 .ipynb_checkpoints
 pull/
 sim_*/
+NaCl_umbrella.mdp
+*.png
+.DS_Store
