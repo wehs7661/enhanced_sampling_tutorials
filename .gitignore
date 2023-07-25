@@ -3,5 +3,4 @@ __pycache__/
 pull/
 sim_*/
 NaCl_umbrella.mdp
-*.png
 .DS_Store
