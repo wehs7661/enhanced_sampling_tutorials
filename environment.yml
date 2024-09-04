@@ -1,0 +1,7 @@
+channels:
+  - ajaymur1991
+  - conda-forge
+  - defaults
+dependencies:
+  - plumed_mpi
+  - gromacs_mpi
