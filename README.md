@@ -1,5 +1,7 @@
 Hands-on tutorials: Enhanced sampling methods using GROMACS
 ===========================================================
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wehs7661/enhanced_sampling_tutorials/HEAD)
+
 <figure id="sampling_">
   <center>
   <img src=enhanced_sampling.png>
@@ -16,7 +18,7 @@ This repository provides jupyter notebooks and simulation inputs that accompany 
 - Chapter 6. Replica-exchange umbrella sampling
 - Chapter 7. Alchemical metadynamics
 
-For more information about this course, please visit the website linked above.
+All the tutorials can be run on Binder as linked in the badge above. For more information about the course and more comprehensive disucssion about each method, please visit the course website linked above.
 
 ### Coopyright
 Copyright (c) 2023, Wei-Tse Hsu
