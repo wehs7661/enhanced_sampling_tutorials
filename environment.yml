@@ -5,3 +5,8 @@ channels:
 dependencies:
   - plumed_mpi
   - gromacs_mpi
+  - pip
+  - pip:
+    - pymbar
+    - matplotlib
+    - scipy
